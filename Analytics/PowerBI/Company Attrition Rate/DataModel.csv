@@ -1,0 +1,22 @@
+﻿,,,,Employee,EmployeeAttrition,EmployeeEducation,EmployeeSalary,OtherParameters
+Attrition,,,,EmployeeNumber,EmployeeNumber,EmployeeNumber,EmployeeNumber,BusinessTravel
+,,,,Age,Primary Reason for Attrition,Education,DailyRate,DistanceFromHome
+,,,,Gender,Secondary Reason for Attrition,EducationField,HourlyRate,EnvironmentSatisfaction
+,,,,MaritalStatus,Tertiary Reason for Attrition,,MonthlyRate,JobInvolvement
+,,,,Department,,,MonthlyIncome,JobSatisfaction
+,,,,JobLevel,,,,NumCompaniesWorked
+,,,,JobRole,,,,OverTime
+EmployeeCount,,,,,,,,PercentSalaryHike
+,,,,,,,,PerformanceRating
+,,,,,,,,RelationshipSatisfaction
+,,,,,,,,StandardHours
+,,,,,,,,StockOptionLevel
+,,,,,,,,TotalWorkingYears
+,,,,,,,,TrainingTimesLastYear
+,,,,,,,,WorkLifeBalance
+,,,,,,,,YearsAtCompany
+,,,,,,,,YearsInCurrentRole
+,,,,,,,,YearsSinceLastPromotion
+,,,,,,,,YearsWithCurrManager
+,,,,,,,,
+Over18,,,,,,,,
